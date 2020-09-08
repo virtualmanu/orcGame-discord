@@ -174,7 +174,7 @@ async def orc_help(ctx):
 		
 	await ctx.send("```>>>This is a simple text based adventure game."
 					"\n>> To play this game from start again, send 'start_game' command anytime in the server"
-					"\n>> To get help, send 'start_game' command anytime in the server"
+					"\n>> To get help, send 'orc_help' command anytime in the server"
 					"\n>> To reply with an option use this command: 'opt option' (i.e. opt b)```")
 	intro()
 
